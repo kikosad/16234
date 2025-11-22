@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Creative Suite",
+  "description": "An application showcasing Gemini's power. It features an AI chatbot, an image analyzer, and a creative story generator with text-to-speech narration in Spanish.",
+  "requestFramePermissions": []
+}
